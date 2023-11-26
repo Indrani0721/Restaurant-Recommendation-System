@@ -73,7 +73,7 @@ output: Oops! No restaurant found for the given cuisine.
 
 ## User interaction:
 
-Recommended restaurants are displayed according to the user craving and available restaurants.
+Recommended restaurants are displayed according to the user craving, and cuisine chosen by the user. Name, ranting, distance and location is given accordingly.
 
 ## Testing:
 
