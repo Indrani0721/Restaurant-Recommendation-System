@@ -30,6 +30,7 @@ C:\projectdirectory>code .
 
 Created a list of restaurants based on the users input with the data structure list.
 
+recommended_restaurants = []
 
 restaurants = [
     Restaurant("Olive Bistro", "Italian", 4.5, 3, "Madhapur"),
