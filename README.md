@@ -4,9 +4,28 @@ Overview:
 
 This Python program is designed to provide restaurant recommendations based on user-input food preferences. It utilizes a data structure to store restaurant information and implements an algorithm that considers user preferences, ratings, and proximity to suggest relevant dining options.
 
+## Table of Contents
+
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+- [Setup instructions](#setup-instructions)
+
+## Features
+
+- Personalized restaurant recommendations
+- Search and filter restaurants based on cuisine, location, and ratings
+- User reviews and ratings for restaurants
+
+## Getting Started
+
+### Prerequisites
+
+Before you begin, ensure you have the following prerequisites:
+
+- [Python](https://www.python.org/) (version 3.12 or higher)
+- 
 ## Setup instructions 
-Firstly installed python latest version from the official webiste.
-Used this link: (https://www.python.org/)  for installing.
 After installation, opened cmd ->> entered python --version, to check if it is installed and up to date.
 Later, using cmd, created two files :
 1. restaurant_recommendation.py
