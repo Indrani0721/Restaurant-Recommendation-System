@@ -11,7 +11,7 @@ This Python program is designed to provide restaurant recommendations based on u
   - [Prerequisites](#prerequisites)
 - [Setup instructions](#setup-instructions)
 - [Project Structure](#Project-Struture)
-- [Data Preparation](#Data-preparation)
+- [Data Structure](#Data-Structure)
 - [Implementation](#implementation)
 - [User interaction](#user-interaction)
 - [Testing](#Testing)
@@ -50,13 +50,15 @@ C:\projectdirectory>code .
 ->test_recommendation.py
 ->README
 
-## Data Preparation:
+## Data Structure:
 
-Created a list of restaurants based on the users input with the data structure list.
+The main data structure in this system is the `Restaurant` class. Here are the attributes of the `Restaurant` class:
 
-recommended_restaurants = []
-
-
+- **Name:** The name of the restaurant.
+- **Cuisine:** The type of cuisine offered.
+- **Rating:** The rating of the restaurant.
+- **Distance:** The distance from a reference point (in kilometers).
+- **Location:** The general location or area of the restaurant.
 
 ## Implementation:
 
