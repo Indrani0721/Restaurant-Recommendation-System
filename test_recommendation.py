@@ -9,7 +9,6 @@
 # # # # Input: Enter the type of food you're craving: Mexican
 
 # # # # Ouput: Recommended Restaurants:
-
 # # # # Name: Alchemy, Rating: 3.5, Distance: 5 km, Location: Hitechcity
 
 # # # # Input: Enter the type of food you're craving: italian
