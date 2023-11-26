@@ -13,6 +13,7 @@ This Python program is designed to provide restaurant recommendations based on u
 - [Project Structure](#Project-Struture)
 - [Data Structure](#Data-Structure)
 - [Implementation](#implementation)
+- [Usage](#Usage)
 - [User interaction](#user-interaction)
 - [Testing](#Testing)
 
@@ -73,6 +74,16 @@ if the user enters any invalid input, error message displays accordingly.
 For example:
 Input: 1234
 Output: Oops! No restaurant found for the given cuisine.
+
+
+## Usage
+
+To use the system, follow these steps:
+
+1. Run the `main()` function in the provided Python script.
+2. Input the type of food you're craving when prompted.
+3. The system will generate and display a list of recommended restaurants based on your cuisine preference.
+
 
 ## User Interaction:
 
