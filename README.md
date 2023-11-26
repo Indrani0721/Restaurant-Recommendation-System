@@ -4,7 +4,7 @@ Overview:
 
 This Python program is designed to provide restaurant recommendations based on user-input food preferences. It utilizes a data structure to store restaurant information and implements an algorithm that considers user preferences, ratings, and proximity to suggest relevant dining options.
 
-#Tables of content :
+#Table of contents :
 
 - [Features](#features)
 - [Getting Started](#getting-started)
