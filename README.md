@@ -14,8 +14,6 @@ This Python program is designed to provide restaurant recommendations based on u
 - [Data Structure](#Data-Structure)
 - [Implementation](#implementation)
 - [Usage](#Usage)
-- [User interaction](#user-interaction)
-- [Testing](#Testing)
 
 ## Features
 
@@ -53,7 +51,8 @@ C:\projectdirectory>code .
 
 ## Data Structure:
 
-The main data structure in this system is the `Restaurant` class. Here are the attributes of the `Restaurant` class:
+The main data structure in this system is the `Restaurant` class. 
+Here are the attributes of the `Restaurant` class:
 
 - **Name:** The name of the restaurant.
 - **Cuisine:** The type of cuisine offered.
@@ -69,7 +68,7 @@ user_input = input("Enter the type of food you're craving: ")
 recommended = recommend_restaurants(user_input)
 
 Based on the factor like cuisine : restaurant names, rating and location is given for the user.
-if the user enters any invalid input, error message displays accordingly. 
+If the user enters any invalid input, error message displays accordingly. 
 
 For example:
 Input: 1234
@@ -84,13 +83,15 @@ To use the system, follow these steps:
 2. Input the type of food you're craving when prompted.
 3. The system will generate and display a list of recommended restaurants based on your cuisine preference.
 
+## Sample Output
 
-## User Interaction:
+```plaintext
+Enter the type of food you're craving: Italian
 
-Recommended restaurants are displayed according to the user craving, and cuisine chosen by the user. 
-Name, ranting, distance and location is given accordingly.
-
-## Testing:
+Recommended Restaurants:
+1. Name: Tre-Forni Bar & Restaurant, Rating: 4.5, Distance: 6 km, Location: Kondapur
+2. Name: Olive Bistro, Rating: 4.5, Distance: 3 km, Location: Madhapur
+3. Name: Ci Gusta!, Rating: 4.2, Distance: 1 km, Location: kukatpally
 
 While writing the code, every block of code is tested and corrected accordingly.
 I have written few test cases in the test_recommendation.py file.
