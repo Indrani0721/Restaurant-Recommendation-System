@@ -11,6 +11,10 @@ This Python program is designed to provide restaurant recommendations based on u
   - [Prerequisites](#prerequisites)
 - [Setup instructions](#setup-instructions)
 - [Project Structure](#Project-Struture)
+- [Data Preparation](#Data-preparation)
+- [Implementation](#implementation)
+- [User interaction](#user-interaction)
+- [Testing](#Testing)
 
 ## Features
 
@@ -91,7 +95,7 @@ for example:
 input: 1234
 output: Oops! No restaurant found for the given cuisine.
 
-## User interaction:
+## User Interaction:
 
 Recommended restaurants are displayed according to the user craving, and cuisine chosen by the user. Name, ranting, distance and location is given accordingly.
 
