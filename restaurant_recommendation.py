@@ -8,8 +8,6 @@ class Restaurant:
         self.distance = distance
         self.location = location
 
-
-# Sample data
 restaurants = [
     Restaurant("Olive Bistro", "Italian", 4.5, 3, "Madhapur"),
     Restaurant("Dine Inn China", "Chinese", 4.0, 2, "Hitech city"),
