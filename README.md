@@ -14,6 +14,7 @@ This Python program is designed to provide restaurant recommendations based on u
 - [Data Structure](#Data-Structure)
 - [Implementation](#implementation)
 - [Usage](#Usage)
+- [Sample Output](#sample-output)
 
 ## Features
 
