@@ -17,9 +17,9 @@ This Python program is designed to provide restaurant recommendations based on u
 
 ## Features
 
-- Personalized restaurant recommendations
+- Personalized restaurant recommendations.
 - Search and filter restaurants based on cuisine, location, and ratings
-- User reviews and ratings for restaurants
+- User reviews and ratings for restaurants.
 
 ## Getting Started
 
