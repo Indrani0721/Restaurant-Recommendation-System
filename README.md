@@ -23,7 +23,6 @@ This Python program is designed to provide restaurant recommendations based on u
 ### Prerequisites
 
 Before you begin, ensure you have the following prerequisites:
-```bash
 - [Python](https://www.python.org/) (version 3.12 or higher)
   
 ## Setup instructions 
