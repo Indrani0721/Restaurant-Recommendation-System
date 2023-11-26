@@ -31,11 +31,14 @@ Before you begin, ensure you have the following prerequisites:
 ## Setup instructions 
 
 After installation, opened cmd ->> entered python --version, to check if it is installed and up to date.
+
 Later, using cmd, created two files :
 1. restaurant_recommendation.py
 2. test_recommendation.py
 
-Created a file from cmd to VS code, using below commands:
+Created and navigated the files from cmd to VSCode.
+
+Commands used:
 
 C:\projectdirectory>type nul > restaurant_recommendation.py
 
