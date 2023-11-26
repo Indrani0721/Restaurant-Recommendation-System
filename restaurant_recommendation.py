@@ -17,7 +17,7 @@ restaurants = [
     Restaurant("Ci Gusta!", "Italian", 4.2, 1, "kukatpally"),
     Restaurant("Chung Hua", "Chinese", 4.1 , 4, "Madhapur"),
     Restaurant("Santhosh Daba", "North Indian", 4.3, 2, "Hafeezpet"),
-    Restaurant(" AB's", "Carribbean", 3.2, 5, "Miyapur"),
+    Restaurant(" AB's", "Caribbean", 3.2, 5, "Miyapur"),
     Restaurant("Udipi Upahar","South Indian", 4.6, 3, "Madeenaguda"),
     Restaurant("Barbeque Nation", "American", 4.8, 6, "Dilshuknagar"),
     Restaurant("Pamrampara", "Indian", 5, 8, "Bnajara Hills"),
