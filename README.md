@@ -12,7 +12,7 @@ This Python program is designed to provide restaurant recommendations based on u
 - [Setup instructions](#setup-instructions)
 - [Project Structure](#Project-Struture)
 
-#Features
+## Features
 
 - Personalized restaurant recommendations
 - Search and filter restaurants based on cuisine, location, and ratings
@@ -26,7 +26,7 @@ Before you begin, ensure you have the following prerequisites:
 ```bash
 - [Python](https://www.python.org/) (version 3.12 or higher)
   
-#### Setup instructions 
+## Setup instructions 
 
 After installation, opened cmd ->> entered python --version, to check if it is installed and up to date.
 Later, using cmd, created two files :
