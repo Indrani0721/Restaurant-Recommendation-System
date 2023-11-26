@@ -10,6 +10,7 @@ This Python program is designed to provide restaurant recommendations based on u
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
 - [Setup instructions](#setup-instructions)
+- [ Project Structure](#Project-Struture)
 
 ## Features
 
@@ -24,8 +25,9 @@ This Python program is designed to provide restaurant recommendations based on u
 Before you begin, ensure you have the following prerequisites:
 
 - [Python](https://www.python.org/) (version 3.12 or higher)
-- 
+  
 ## Setup instructions 
+
 After installation, opened cmd ->> entered python --version, to check if it is installed and up to date.
 Later, using cmd, created two files :
 1. restaurant_recommendation.py
