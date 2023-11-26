@@ -91,13 +91,14 @@ recommended = recommend_restaurants(user_input)
 Based on the factor like cuisine : restaurant names, rating and location is given for the user.
 if the user enters any invalid input, error message displays accordingly. 
 
-for example:
-input: 1234
-output: Oops! No restaurant found for the given cuisine.
+For example:
+Input: 1234
+Output: Oops! No restaurant found for the given cuisine.
 
 ## User Interaction:
 
-Recommended restaurants are displayed according to the user craving, and cuisine chosen by the user. Name, ranting, distance and location is given accordingly.
+Recommended restaurants are displayed according to the user craving, and cuisine chosen by the user. 
+Name, ranting, distance and location is given accordingly.
 
 ## Testing:
 
